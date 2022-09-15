@@ -26,3 +26,7 @@ THEN I am again presented with current and future conditions for that city
 Mock-Up
 
 ![alt text](assets/image/weather-dashboard.png)
+
+## Study Group 
+
+Ricky, Chris, Sarah, Susan, Aaron, Jackson
